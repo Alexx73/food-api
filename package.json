@@ -1,0 +1,23 @@
+{
+  "name": "food-api",
+  "version": "1.0.0",
+  "description": "My Food Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexx73/food-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexx73/food-api/issues"
+  },
+  "homepage": "https://github.com/Alexx73/food-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
